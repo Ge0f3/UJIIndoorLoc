@@ -5,6 +5,8 @@ __pycache__/
 webapp/__pycache__/
 webapp/*.py[cod]
 webapp/*$py.class
+.DS_Store
+webapp/.DS_Store
 
 # C extensions
 *.so
